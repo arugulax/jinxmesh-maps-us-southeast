@@ -1,0 +1,17 @@
+{
+ "name": "us-virgin-islands",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 1642590,
+ "pieces": [
+  {
+   "file": "us-virgin-islands.jmv",
+   "bytes": 1642590,
+   "sha256": "7ca6790d3aa416fb40a7b09840880e9be8fd7704763578905dcc9daf70b7186b",
+   "south": 17.60214,
+   "west": -65.25879,
+   "north": 18.56295,
+   "east": -64.46777
+  }
+ ]
+}
