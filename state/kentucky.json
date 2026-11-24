@@ -1,0 +1,107 @@
+{
+ "name": "kentucky",
+ "format": "JMVM 4",
+ "group": 11491,
+ "bytes": 346228831,
+ "pieces": [
+  {
+   "file": "kentucky-1.jmv",
+   "bytes": 40136626,
+   "sha256": "394152aeaba8498bd46ad436e8e218b62d76567199b97c23c59615ff3c6d970f",
+   "south": 37.71859,
+   "west": -85.78125,
+   "north": 39.19821,
+   "east": -84.375
+  },
+  {
+   "file": "kentucky-2.jmv",
+   "bytes": 24230275,
+   "sha256": "7f811ba46e95dda940f593c7ddb02be7d7ad62d62518836791f9f9ce13ec5c81",
+   "south": 38.27269,
+   "west": -84.375,
+   "north": 39.09596,
+   "east": -82.96875
+  },
+  {
+   "file": "kentucky-3.jmv",
+   "bytes": 38401104,
+   "sha256": "c29a066a1d245071144b74cdfd7e9e444444552934d9ba43ef8bf50c82d090f2",
+   "south": 36.5626,
+   "west": -87.1875,
+   "north": 38.34166,
+   "east": -85.78125
+  },
+  {
+   "file": "kentucky-4.jmv",
+   "bytes": 24616479,
+   "sha256": "a74d9019ba3c0ec2d00d5925cd98d41aee736c2e6a89fc2b24c908ed428f64ae",
+   "south": 37.71859,
+   "west": -82.96875,
+   "north": 38.82259,
+   "east": -82.22168
+  },
+  {
+   "file": "kentucky-5.jmv",
+   "bytes": 28421918,
+   "sha256": "63a0a6d50ff8454439749ea10265ef1bffbac5f3a0a3753c6c42c09f88408397",
+   "south": 36.45664,
+   "west": -89.64844,
+   "north": 38.03079,
+   "east": -87.1875
+  },
+  {
+   "file": "kentucky-6.jmv",
+   "bytes": 29355185,
+   "sha256": "a6007faf916e5340c1782d8062003b4d18da8e6ae7591a2c7588203fd037d69a",
+   "south": 37.71859,
+   "west": -84.375,
+   "north": 38.27269,
+   "east": -82.96875
+  },
+  {
+   "file": "kentucky-7.jmv",
+   "bytes": 20316506,
+   "sha256": "a75e571dacdc7285817b47509ae99c66ed07b203c256b24d39953315b7a18436",
+   "south": 37.16032,
+   "west": -85.78125,
+   "north": 37.71859,
+   "east": -84.375
+  },
+  {
+   "file": "kentucky-8.jmv",
+   "bytes": 39459794,
+   "sha256": "28dbe209945e116d3bbd29562744742b23dfafbb77dc68d09c1ef84a92cd69b7",
+   "south": 37.16032,
+   "west": -84.375,
+   "north": 37.71859,
+   "east": -82.96875
+  },
+  {
+   "file": "kentucky-9.jmv",
+   "bytes": 37109661,
+   "sha256": "7e82cd834e36dfa5396371aa0b3bfcf42b0fa8e0a5276640029742b29fdfc9ff",
+   "south": 36.80928,
+   "west": -82.96875,
+   "north": 37.71859,
+   "east": -81.87012
+  },
+  {
+   "file": "kentucky-10.jmv",
+   "bytes": 25842592,
+   "sha256": "7fae4f4198f453b3a175c279c92ba173a49caf9ffb8ff4d750ada2f55c78b3a4",
+   "south": 36.52729,
+   "west": -85.78125,
+   "north": 37.16032,
+   "east": -84.375
+  },
+  {
+   "file": "kentucky-11.jmv",
+   "bytes": 38338691,
+   "sha256": "ae0eef070cd964921f25e31bfc8d5b9a7a44bf4efd07bf6fd9927a97013a6457",
+   "south": 36.52729,
+   "west": -84.375,
+   "north": 37.16032,
+   "east": -82.96875
+  }
+ ]
+}
