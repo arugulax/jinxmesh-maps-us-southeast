@@ -1,0 +1,107 @@
+{
+ "name": "tennessee",
+ "format": "JMVM 4",
+ "group": 48081,
+ "bytes": 321457624,
+ "pieces": [
+  {
+   "file": "tennessee-1.jmv",
+   "bytes": 22434610,
+   "sha256": "1c8bac32ba28d764e47e251cc225c989babc290d4e70c4c52af4d81d0f8ff7d1",
+   "south": 34.958,
+   "west": -88.59375,
+   "north": 36.73888,
+   "east": -87.89062
+  },
+  {
+   "file": "tennessee-2.jmv",
+   "bytes": 30752950,
+   "sha256": "4b0b449270c81b688d2d0f74b1874a9709c892295e921a904b749cbc64dcb781",
+   "south": 34.958,
+   "west": -87.89062,
+   "north": 36.70366,
+   "east": -87.1875
+  },
+  {
+   "file": "tennessee-3.jmv",
+   "bytes": 36761967,
+   "sha256": "8cd541ac0829d2d15747cb9aa3f8ee63bff253d147b99830944045af7af4fbb6",
+   "south": 36.03133,
+   "west": -87.1875,
+   "north": 36.70366,
+   "east": -85.07812
+  },
+  {
+   "file": "tennessee-4.jmv",
+   "bytes": 32475300,
+   "sha256": "83d2f231e5f8d7b4c1840707cfe367ce17e9ddaa27bc55804978202866005e71",
+   "south": 36.03133,
+   "west": -85.07812,
+   "north": 36.66842,
+   "east": -83.67188
+  },
+  {
+   "file": "tennessee-5.jmv",
+   "bytes": 34451354,
+   "sha256": "03366e0d80b324fc09ad5456f1e35015eba7607bb14d1caf9a277f2c2f5224b9",
+   "south": 35.49646,
+   "west": -83.67188,
+   "north": 36.66842,
+   "east": -82.96875
+  },
+  {
+   "file": "tennessee-6.jmv",
+   "bytes": 38171861,
+   "sha256": "3f3053accb53fdfb78dbf65b30ebde4f3943604a63431625043b67b5fbaf34ec",
+   "south": 35.71084,
+   "west": -82.96875,
+   "north": 36.66842,
+   "east": -81.5625
+  },
+  {
+   "file": "tennessee-7.jmv",
+   "bytes": 23277430,
+   "sha256": "aadb7178f8cdded09acf51fdc028c76a508b5255326588a945fd9fb771a80335",
+   "south": 34.92197,
+   "west": -90.39551,
+   "north": 36.5626,
+   "east": -88.59375
+  },
+  {
+   "file": "tennessee-8.jmv",
+   "bytes": 30985634,
+   "sha256": "ee4857b70d357337bb2e79bf4b86804c0053e9cce2dd5757ad7f2d5acf318dde",
+   "south": 34.92197,
+   "west": -87.1875,
+   "north": 36.03133,
+   "east": -85.78125
+  },
+  {
+   "file": "tennessee-9.jmv",
+   "bytes": 21518197,
+   "sha256": "31900c69129cad0e01f3e975118e311d7f9d9bc0a6a6e4441322714a04187961",
+   "south": 34.92197,
+   "west": -85.78125,
+   "north": 36.03133,
+   "east": -85.07812
+  },
+  {
+   "file": "tennessee-10.jmv",
+   "bytes": 24001352,
+   "sha256": "9557b21765a276f33984eb3c289bedc80cff6dde1959021ac9cc6d22dbcbbbb6",
+   "south": 34.92197,
+   "west": -85.07812,
+   "north": 36.03133,
+   "east": -84.375
+  },
+  {
+   "file": "tennessee-11.jmv",
+   "bytes": 26626969,
+   "sha256": "b4279bfee50d8b17f8e21ef192a5f02713f2c5ba09e9be82bce91f8012853987",
+   "south": 34.92197,
+   "west": -84.375,
+   "north": 36.03133,
+   "east": -83.67188
+  }
+ ]
+}
