@@ -1,0 +1,62 @@
+{
+ "name": "arkansas",
+ "format": "JMVM 4",
+ "group": 12230,
+ "bytes": 177758743,
+ "pieces": [
+  {
+   "file": "arkansas-1.jmv",
+   "bytes": 26052990,
+   "sha256": "9d23195676dfffc76ba5609ad107547114dd06f0d2079178c6379bf052b39384",
+   "south": 35.46067,
+   "west": -94.70215,
+   "north": 36.5626,
+   "east": -93.51562
+  },
+  {
+   "file": "arkansas-2.jmv",
+   "bytes": 21303055,
+   "sha256": "249179c014b398bbec623db82655fd214fcbe0dfd1f02d8ec515eb706c0ab4a5",
+   "south": 35.46067,
+   "west": -93.51562,
+   "north": 36.52729,
+   "east": -92.8125
+  },
+  {
+   "file": "arkansas-3.jmv",
+   "bytes": 39753506,
+   "sha256": "1db0fc606e4ccf655965c914fbc5dada20a41e4cad6fd48629bf600da805fd8a",
+   "south": 35.46067,
+   "west": -92.8125,
+   "north": 36.5626,
+   "east": -89.56055
+  },
+  {
+   "file": "arkansas-4.jmv",
+   "bytes": 37023141,
+   "sha256": "4af5f4b4d3c7b977f8d9bd6eca4d9b136cdae3a1d076907bc2225fbe8fa284e7",
+   "south": 34.30714,
+   "west": -94.52637,
+   "north": 35.46067,
+   "east": -92.8125
+  },
+  {
+   "file": "arkansas-5.jmv",
+   "bytes": 34435016,
+   "sha256": "97a72197ff3c073bd6cb0e9d1759c189050be14730122211f158ca829a1cfce2",
+   "south": 32.95337,
+   "west": -92.8125,
+   "north": 35.46067,
+   "east": -89.95605
+  },
+  {
+   "file": "arkansas-6.jmv",
+   "bytes": 19191035,
+   "sha256": "8255adde37623033f27192a07905220117503ee6e65ae53662301ddb17ab800a",
+   "south": 32.95337,
+   "west": -94.57031,
+   "north": 34.30714,
+   "east": -92.8125
+  }
+ ]
+}
