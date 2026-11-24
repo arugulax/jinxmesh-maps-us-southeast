@@ -1,0 +1,98 @@
+{
+ "name": "west-virginia",
+ "format": "JMVM 4",
+ "group": 7026,
+ "bytes": 329597809,
+ "pieces": [
+  {
+   "file": "west-virginia-1.jmv",
+   "bytes": 39064840,
+   "sha256": "813aa2e11d85587c9dfdafdb79706e1f7c9ce240321073ce7e7893806ca8e4dd",
+   "south": 38.82259,
+   "west": -80.85938,
+   "north": 40.68064,
+   "east": -80.15625
+  },
+  {
+   "file": "west-virginia-2.jmv",
+   "bytes": 28926517,
+   "sha256": "c2ab85be00381a530967ebe01f2350d33dd8053fd644faae12f0c9299413bb12",
+   "south": 38.27269,
+   "west": -82.66113,
+   "north": 39.40224,
+   "east": -81.5625
+  },
+  {
+   "file": "west-virginia-3.jmv",
+   "bytes": 43041922,
+   "sha256": "7849eb03b874508ea42316c6f97fe06010b00aa44dc722c24de59f9cb8cb63df",
+   "south": 38.27269,
+   "west": -81.5625,
+   "north": 39.90974,
+   "east": -80.85938
+  },
+  {
+   "file": "west-virginia-4.jmv",
+   "bytes": 23355449,
+   "sha256": "2467a2c4a6415864d72b2fc4754ff3c73ee1cba00961924f90d45322eba4efb8",
+   "south": 38.82259,
+   "west": -80.15625,
+   "north": 39.77477,
+   "east": -79.45312
+  },
+  {
+   "file": "west-virginia-5.jmv",
+   "bytes": 31218305,
+   "sha256": "66b109dcb9c7ceeea719ed6094c61e82350116929330bc4c53ba88daf2765b0b",
+   "south": 38.82259,
+   "west": -79.45312,
+   "north": 39.77477,
+   "east": -77.65137
+  },
+  {
+   "file": "west-virginia-6.jmv",
+   "bytes": 40817998,
+   "sha256": "a118801fc753e701ea7ebf1b1a43b872d3a7c1bc762c4f31329cba5087f3f662",
+   "south": 37.26531,
+   "west": -80.85938,
+   "north": 38.82259,
+   "east": -80.15625
+  },
+  {
+   "file": "west-virginia-7.jmv",
+   "bytes": 28299029,
+   "sha256": "03dcf80d6074d7d893b88514ffe2222705bc52244e17f33af7d26a5b7eaa77c7",
+   "south": 37.78808,
+   "west": -80.15625,
+   "north": 38.82259,
+   "east": -78.75
+  },
+  {
+   "file": "west-virginia-8.jmv",
+   "bytes": 11582804,
+   "sha256": "11858fab723e88535afa6378f6885361d7d5de33267273bb2210d3eefde1c423",
+   "south": 37.57941,
+   "west": -82.70508,
+   "north": 38.27269,
+   "east": -82.26562
+  },
+  {
+   "file": "west-virginia-9.jmv",
+   "bytes": 43457567,
+   "sha256": "47fc17e849d71c4b1db854c4bd91ab8625e6d68c86e6a7358ffada941e3b31d8",
+   "south": 37.16032,
+   "west": -82.26562,
+   "north": 38.27269,
+   "east": -81.5625
+  },
+  {
+   "file": "west-virginia-10.jmv",
+   "bytes": 39833378,
+   "sha256": "cf6e03081957a4a2f2a785637471ab5e9b9c02b77f2e0407cffa74653373ad76",
+   "south": 37.16032,
+   "west": -81.5625,
+   "north": 38.27269,
+   "east": -80.85938
+  }
+ ]
+}
