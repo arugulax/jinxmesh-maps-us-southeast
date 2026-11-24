@@ -1,0 +1,107 @@
+{
+ "name": "virginia",
+ "format": "JMVM 4",
+ "group": 35972,
+ "bytes": 343643697,
+ "pieces": [
+  {
+   "file": "virginia-1.jmv",
+   "bytes": 33008422,
+   "sha256": "ef12b4e5d4ac7e1a1552b2c439227437507a409f6a6c0d03d686e94d7212fe11",
+   "south": 38.27269,
+   "west": -79.45312,
+   "north": 39.50404,
+   "east": -78.04688
+  },
+  {
+   "file": "virginia-2.jmv",
+   "bytes": 38379196,
+   "sha256": "9c960579c0b1c74aeb8db7d40ed93009d42212cd9d2882a650f903111906638e",
+   "south": 37.71859,
+   "west": -78.04688,
+   "north": 39.36828,
+   "east": -74.92676
+  },
+  {
+   "file": "virginia-3.jmv",
+   "bytes": 23273521,
+   "sha256": "7637633e0853aa8ada2bdc7a7f9ff92caddb0feb7838cc4393aff052645c7a02",
+   "south": 37.71859,
+   "west": -80.37598,
+   "north": 38.6512,
+   "east": -79.45312
+  },
+  {
+   "file": "virginia-4.jmv",
+   "bytes": 25538794,
+   "sha256": "d7e532b9536c7d90fa042d70d2993320b79941fa7d6dad76198ef1350585e84d",
+   "south": 37.71859,
+   "west": -79.45312,
+   "north": 38.27269,
+   "east": -78.04688
+  },
+  {
+   "file": "virginia-5.jmv",
+   "bytes": 32203432,
+   "sha256": "9fd699fc7340a8064f06f3080bd31665719c79e4956d117c9808751b241aff0d",
+   "south": 36.52729,
+   "west": -83.75977,
+   "north": 37.37016,
+   "east": -82.26562
+  },
+  {
+   "file": "virginia-6.jmv",
+   "bytes": 22944336,
+   "sha256": "45e0a1cf1bb4c72eb8718ec1a12701f593915ca118300abea67cf640b35f7010",
+   "south": 37.16032,
+   "west": -82.26562,
+   "north": 37.57941,
+   "east": -80.85938
+  },
+  {
+   "file": "virginia-7.jmv",
+   "bytes": 29082959,
+   "sha256": "d9fa4f22701694d4ee739483328ee91883391f69582f02cb2dd5a5637fa0544b",
+   "south": 37.16032,
+   "west": -80.85938,
+   "north": 37.71859,
+   "east": -79.45312
+  },
+  {
+   "file": "virginia-8.jmv",
+   "bytes": 35444879,
+   "sha256": "087cf7b8e2fa708091948627c40d8d4056e26f92379accdab2e4461a3ec924ab",
+   "south": 36.49197,
+   "west": -79.45312,
+   "north": 37.71859,
+   "east": -78.04688
+  },
+  {
+   "file": "virginia-9.jmv",
+   "bytes": 31526482,
+   "sha256": "aaa71057db903eb054a449a716ae124444c0ffc92b314e75e6dcbdaa22a5d03a",
+   "south": 36.49197,
+   "west": -78.04688,
+   "north": 37.71859,
+   "east": -75.14648
+  },
+  {
+   "file": "virginia-10.jmv",
+   "bytes": 40520006,
+   "sha256": "e89b448626c9fd498d231a563998bb52def6ef8f480d6db8079f6a6ee526da69",
+   "south": 36.49197,
+   "west": -82.26562,
+   "north": 37.16032,
+   "east": -80.85938
+  },
+  {
+   "file": "virginia-11.jmv",
+   "bytes": 31721670,
+   "sha256": "dbe82201ef5be7dd2511dd10697ee35e53d3bf4c17f87feb6ba50ef18ca10fad",
+   "south": 36.49197,
+   "west": -80.85938,
+   "north": 37.16032,
+   "east": -79.45312
+  }
+ ]
+}
