@@ -1,0 +1,35 @@
+{
+ "name": "louisiana",
+ "format": "JMVM 4",
+ "group": 38447,
+ "bytes": 82329406,
+ "pieces": [
+  {
+   "file": "louisiana-1.jmv",
+   "bytes": 20442582,
+   "sha256": "071d6a0ac2a2c3d5612de24ef776e8ddb27d3bf42239258542e50b69da5b959e",
+   "south": 31.95216,
+   "west": -94.13086,
+   "north": 33.06392,
+   "east": -92.10938
+  },
+  {
+   "file": "louisiana-2.jmv",
+   "bytes": 35717601,
+   "sha256": "89b75c6360e0f2717f2a71abe09aa0a89e7508d108c2403340384de4cc512a17",
+   "south": 28.69059,
+   "west": -92.10938,
+   "north": 33.06392,
+   "east": -88.68164
+  },
+  {
+   "file": "louisiana-3.jmv",
+   "bytes": 26169223,
+   "sha256": "e9428f464e706f19d0243cb9709dab09bd367f3e2296b2316f9854b77bde9dcf",
+   "south": 29.30556,
+   "west": -94.08691,
+   "north": 31.95216,
+   "east": -92.10938
+  }
+ ]
+}
