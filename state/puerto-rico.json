@@ -1,0 +1,17 @@
+{
+ "name": "puerto-rico",
+ "format": "JMVM 4",
+ "group": 0,
+ "bytes": 34897300,
+ "pieces": [
+  {
+   "file": "puerto-rico.jmv",
+   "bytes": 34897300,
+   "sha256": "f2b232038ff36f4cbe9a0afca9d7f2c21f9458d93773f97d3d186ad1058ee970",
+   "south": 17.64402,
+   "west": -68.20312,
+   "north": 18.7295,
+   "east": -65.08301
+  }
+ ]
+}
