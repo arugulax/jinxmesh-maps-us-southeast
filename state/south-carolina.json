@@ -1,0 +1,44 @@
+{
+ "name": "south-carolina",
+ "format": "JMVM 4",
+ "group": 2615,
+ "bytes": 113023160,
+ "pieces": [
+  {
+   "file": "south-carolina-1.jmv",
+   "bytes": 18778892,
+   "sha256": "8887e455c1bba004323b7a6410c5c972032b31960daa8ebdcbf02ea531c7d123",
+   "south": 34.88593,
+   "west": -83.32031,
+   "north": 35.2815,
+   "east": -81.5625
+  },
+  {
+   "file": "south-carolina-2.jmv",
+   "bytes": 23550637,
+   "sha256": "529f0fb995e61b78fee7bc7b706f36c57717234332ace3a85b38ea18a635ceac",
+   "south": 34.30714,
+   "west": -81.5625,
+   "north": 35.20972,
+   "east": -79.01367
+  },
+  {
+   "file": "south-carolina-3.jmv",
+   "bytes": 36439777,
+   "sha256": "f67e08277ceff68eaab32ceb9d9af10f601ef02e952501c942c045e67363a41d",
+   "south": 32.99024,
+   "west": -83.4082,
+   "north": 34.88593,
+   "east": -81.5625
+  },
+  {
+   "file": "south-carolina-4.jmv",
+   "bytes": 34253854,
+   "sha256": "02698858bbd4111124ee1086c2e1ef82c47b6470010231ea3fa2ca5ef5926921",
+   "south": 31.98944,
+   "west": -81.5625,
+   "north": 34.30714,
+   "east": -78.48633
+  }
+ ]
+}
