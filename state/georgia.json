@@ -1,0 +1,80 @@
+{
+ "name": "georgia",
+ "format": "JMVM 4",
+ "group": 31222,
+ "bytes": 234140694,
+ "pieces": [
+  {
+   "file": "georgia-1.jmv",
+   "bytes": 27506901,
+   "sha256": "a7b6442f43aa88a72af2b9f059987b3ad0a3d2efa4b977693211928fd68344e6",
+   "south": 34.30714,
+   "west": -85.69336,
+   "north": 35.03,
+   "east": -84.375
+  },
+  {
+   "file": "georgia-2.jmv",
+   "bytes": 37309642,
+   "sha256": "0fb934d13ae90752c61d06f6ba23fb7cd2adda2e3ab0a5ff34437d08c435748a",
+   "south": 33.72434,
+   "west": -84.375,
+   "north": 35.03,
+   "east": -83.67188
+  },
+  {
+   "file": "georgia-3.jmv",
+   "bytes": 31368420,
+   "sha256": "628fd146eaadd17cad7618b49f054f91dd6851a76e329d963e735cf14f8a3ac4",
+   "south": 33.72434,
+   "west": -83.67188,
+   "north": 35.06597,
+   "east": -82.17773
+  },
+  {
+   "file": "georgia-4.jmv",
+   "bytes": 21393652,
+   "sha256": "d57831c17587786ea9fd156efb65f9bb417ec871691d5e0cf82b910c457bf4f5",
+   "south": 33.72434,
+   "west": -85.51758,
+   "north": 34.30714,
+   "east": -84.375
+  },
+  {
+   "file": "georgia-5.jmv",
+   "bytes": 38261027,
+   "sha256": "0ded5053b2e32875e1df5326bf56f11871ce462136d4dcb72395aeaf13f0955b",
+   "south": 32.54681,
+   "west": -85.38574,
+   "north": 33.72434,
+   "east": -83.67188
+  },
+  {
+   "file": "georgia-6.jmv",
+   "bytes": 27690948,
+   "sha256": "87af833625d338249fec882fd8cf6eb87aba08933870389449ac0a517cd948df",
+   "south": 32.54681,
+   "west": -83.67188,
+   "north": 33.72434,
+   "east": -81.16699
+  },
+  {
+   "file": "georgia-7.jmv",
+   "bytes": 22802014,
+   "sha256": "99d4543515e686f811c60c02f83865443e81d0e7b70c62d598be7f67d7ab93e6",
+   "south": 30.60009,
+   "west": -85.20996,
+   "north": 32.54681,
+   "east": -83.67188
+  },
+  {
+   "file": "georgia-8.jmv",
+   "bytes": 27808090,
+   "sha256": "41663e7ff4e8c98a54b2b3f098e842a01404a617b59ffdb15f9ed78a8b5e7ea2",
+   "south": 30.29702,
+   "west": -83.67188,
+   "north": 32.54681,
+   "east": -80.68359
+  }
+ ]
+}
