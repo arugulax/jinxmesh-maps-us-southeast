@@ -1,0 +1,107 @@
+{
+ "name": "north-carolina",
+ "format": "JMVM 4",
+ "group": 559,
+ "bytes": 324667816,
+ "pieces": [
+  {
+   "file": "north-carolina-1.jmv",
+   "bytes": 21080327,
+   "sha256": "3fd428a65b16f63c384ebf605e5c4836da673231d6b5790cc240d0c00a305451",
+   "south": 36.03133,
+   "west": -82.83691,
+   "north": 36.63316,
+   "east": -81.5625
+  },
+  {
+   "file": "north-carolina-2.jmv",
+   "bytes": 39924931,
+   "sha256": "9a1e012886eb3dba2dce9c7c20aadca67f6b159bc7c25add87497ea709578184",
+   "south": 36.03133,
+   "west": -81.5625,
+   "north": 36.63316,
+   "east": -79.45312
+  },
+  {
+   "file": "north-carolina-3.jmv",
+   "bytes": 30625953,
+   "sha256": "fe2b70577f1ed3930d19e5848317c82e032a8e5e11ef21caf22adda7d51605ff",
+   "south": 35.46067,
+   "west": -79.45312,
+   "north": 36.59789,
+   "east": -78.04688
+  },
+  {
+   "file": "north-carolina-4.jmv",
+   "bytes": 25162539,
+   "sha256": "fd8fb081ce10d1dd0cfaeef9b2c23e2b6d5923bff197289f82fe2710f3ed1d16",
+   "south": 33.61462,
+   "west": -78.04688,
+   "north": 36.59789,
+   "east": -75.19043
+  },
+  {
+   "file": "north-carolina-5.jmv",
+   "bytes": 22015390,
+   "sha256": "8f2c905de8e1968d24fed331d2407bf1b929a62c28eda1c086c2f09fb337ec0c",
+   "south": 34.92197,
+   "west": -84.375,
+   "north": 35.63944,
+   "east": -83.67188
+  },
+  {
+   "file": "north-carolina-6.jmv",
+   "bytes": 38025103,
+   "sha256": "7d1bb812d64d12e9bafd5639601419d9f9b30c34eb06e9192a5a619379af4bb6",
+   "south": 34.92197,
+   "west": -83.67188,
+   "north": 35.88905,
+   "east": -82.96875
+  },
+  {
+   "file": "north-carolina-7.jmv",
+   "bytes": 46588306,
+   "sha256": "2eb621931e5e899eb455817a670e98a2569cef47ae58a14739491ed73569134e",
+   "south": 35.46067,
+   "west": -82.96875,
+   "north": 36.03133,
+   "east": -81.5625
+  },
+  {
+   "file": "north-carolina-8.jmv",
+   "bytes": 21178246,
+   "sha256": "488f2f3a1f0ccf23c2a8f377a46a87d1174c8aacdd48fd534c42db38f8f71721",
+   "south": 34.958,
+   "west": -81.5625,
+   "north": 36.03133,
+   "east": -80.85938
+  },
+  {
+   "file": "north-carolina-9.jmv",
+   "bytes": 37768718,
+   "sha256": "e3c1cc150ecc50529952f54820010fc8e94bfd50e51f8639d6b3cc40dfd5f58f",
+   "south": 34.56086,
+   "west": -80.85938,
+   "north": 36.03133,
+   "east": -79.45312
+  },
+  {
+   "file": "north-carolina-10.jmv",
+   "bytes": 23876653,
+   "sha256": "dc6b0f5dd2e771dbb15e3ed15711f97d3016dc4568c7ce8ed54af1a6f92a34ab",
+   "south": 34.994,
+   "west": -82.96875,
+   "north": 35.46067,
+   "east": -81.5625
+  },
+  {
+   "file": "north-carolina-11.jmv",
+   "bytes": 18421650,
+   "sha256": "fb67a11f1aecc98da80c4f62c49e4bd2c380590e67400d8b7b2d9e47f5ea5a7d",
+   "south": 33.61462,
+   "west": -79.45312,
+   "north": 35.46067,
+   "east": -78.04688
+  }
+ ]
+}
