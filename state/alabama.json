@@ -1,0 +1,80 @@
+{
+ "name": "alabama",
+ "format": "JMVM 4",
+ "group": 11359,
+ "bytes": 227441126,
+ "pieces": [
+  {
+   "file": "alabama-1.jmv",
+   "bytes": 27300759,
+   "sha256": "67c8f759a5cf07d5814dc7ddcc078464fa2ee94ac121117bd3517911550e00f9",
+   "south": 33.72434,
+   "west": -88.33008,
+   "north": 35.06597,
+   "east": -87.1875
+  },
+  {
+   "file": "alabama-2.jmv",
+   "bytes": 19492099,
+   "sha256": "2b11fdaa99c0b50a55c8abf7e3e85471e2226be9cbf7cfc1406cc3f5faefdc3e",
+   "south": 33.72434,
+   "west": -87.1875,
+   "north": 35.03,
+   "east": -86.48438
+  },
+  {
+   "file": "alabama-3.jmv",
+   "bytes": 29118487,
+   "sha256": "23f04c889f93f7da711e2eb19f13460aa30a878149fc826ed20ad4861bf02b75",
+   "south": 33.72434,
+   "west": -86.48438,
+   "north": 35.03,
+   "east": -85.29785
+  },
+  {
+   "file": "alabama-4.jmv",
+   "bytes": 29334966,
+   "sha256": "b07816c1597a1c5624b84f330e475f380f23115e27e4d04c9edc4e1814ec033a",
+   "south": 33.13755,
+   "west": -88.37402,
+   "north": 33.72434,
+   "east": -86.48438
+  },
+  {
+   "file": "alabama-5.jmv",
+   "bytes": 19810258,
+   "sha256": "c431f698cba9980867bd5fad04a6b61f41ae05aefd13323a3dbf1c52f5e73779",
+   "south": 33.13755,
+   "west": -86.48438,
+   "north": 33.72434,
+   "east": -85.16602
+  },
+  {
+   "file": "alabama-6.jmv",
+   "bytes": 32817560,
+   "sha256": "ccafd89b12cebc0cc54a7b49a0d5b3a65b12eeacc8bec70c67172c2afc9b3f5a",
+   "south": 31.95216,
+   "west": -88.50586,
+   "north": 33.13755,
+   "east": -86.48438
+  },
+  {
+   "file": "alabama-7.jmv",
+   "bytes": 41364840,
+   "sha256": "69ed7b0a7130111242d8ede0c49dc893990fd0d8194ec693738599c75444b29d",
+   "south": 30.93992,
+   "west": -86.48438,
+   "north": 33.13755,
+   "east": -84.81445
+  },
+  {
+   "file": "alabama-8.jmv",
+   "bytes": 28202157,
+   "sha256": "2f88dba5be08f7406e92eb8c4852020297373550903c4675320c3c030d88a913",
+   "south": 29.993,
+   "west": -88.5498,
+   "north": 31.95216,
+   "east": -86.48438
+  }
+ ]
+}
