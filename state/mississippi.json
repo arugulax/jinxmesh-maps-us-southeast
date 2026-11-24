@@ -1,0 +1,44 @@
+{
+ "name": "mississippi",
+ "format": "JMVM 4",
+ "group": 49984,
+ "bytes": 140445805,
+ "pieces": [
+  {
+   "file": "mississippi-1.jmv",
+   "bytes": 39782904,
+   "sha256": "285b04d4eb5908e1d1e5ac07685f94c12cf0c2d7a29528b0ad8cc8370bc4f0ce",
+   "south": 32.54681,
+   "west": -91.31836,
+   "north": 35.06597,
+   "east": -89.29688
+  },
+  {
+   "file": "mississippi-2.jmv",
+   "bytes": 34539335,
+   "sha256": "35e521d27e37e9cd7c0a291ae09e77feaf174c135d5eafcbda069ab9d8f17895",
+   "south": 32.54681,
+   "west": -89.29688,
+   "north": 35.06597,
+   "east": -88.02246
+  },
+  {
+   "file": "mississippi-3.jmv",
+   "bytes": 27430271,
+   "sha256": "711305673430d7c5a3b6f73c4c76f4f6ea37e14ba806987467759577ee68b01a",
+   "south": 30.93992,
+   "west": -91.71387,
+   "north": 32.54681,
+   "east": -90.0
+  },
+  {
+   "file": "mississippi-4.jmv",
+   "bytes": 38693295,
+   "sha256": "5bc3e8c432328ad1c24c762007b0af9f2d9250f8cba11bb3ea5ea7b30a050c73",
+   "south": 29.993,
+   "west": -90.0,
+   "north": 32.54681,
+   "east": -88.33008
+  }
+ ]
+}
