@@ -1,0 +1,44 @@
+{
+ "name": "florida",
+ "format": "JMVM 4",
+ "group": 39701,
+ "bytes": 120679826,
+ "pieces": [
+  {
+   "file": "florida-1.jmv",
+   "bytes": 26591680,
+   "sha256": "0b4add564ff6e01be774da328051da5f16c60895abbd3a9caf8ef789a6e4db3f",
+   "south": 30.14513,
+   "west": -87.71484,
+   "north": 31.05293,
+   "east": -82.26562
+  },
+  {
+   "file": "florida-2.jmv",
+   "bytes": 37890263,
+   "sha256": "00dfa5a781c01b4c3a3839afbfb4954379e8d29e86d45c12bd360524d4a19f12",
+   "south": 27.68353,
+   "west": -82.26562,
+   "north": 30.90222,
+   "east": -80.1123
+  },
+  {
+   "file": "florida-3.jmv",
+   "bytes": 25844997,
+   "sha256": "7ca2725cc1370fef3fe744d9e638dd050d39a44aa4e9de3029d3a49b8931e13e",
+   "south": 24.36711,
+   "west": -87.62695,
+   "north": 30.14513,
+   "east": -82.26562
+  },
+  {
+   "file": "florida-4.jmv",
+   "bytes": 30352886,
+   "sha256": "69a51249a12d9a04a50d038096bf5169826151ca383c2a50337d249e741ca43e",
+   "south": 24.24696,
+   "west": -82.26562,
+   "north": 27.68353,
+   "east": -79.7168
+  }
+ ]
+}
